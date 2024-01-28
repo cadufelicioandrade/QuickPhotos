@@ -11,7 +11,7 @@ import { PhotoFormModule } from './photo-form/photo-form.module';
   imports:[
     PhotoModule,
     PhotoListModule,
-    PhotoFormModule
+    PhotoFormModule,
   ]
 })
 export class PhotosModule{
